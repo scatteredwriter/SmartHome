@@ -1,0 +1,53 @@
+form{
+    text-align: center;
+    border-width: 1px;
+    border-color: #21b181;
+    border-style: solid solid none solid;
+    padding: 0px 5px 0px 5px;
+    margin: 0px;
+}
+
+p{
+    color: #21b181;
+    text-align: center;
+}
+
+.text{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 1px;
+    border-bottom-color: #21b181;
+}
+
+.submit{
+    border: none;
+    margin: 15px 0px 15px 0px;
+    background-color: #21b181;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 5px 0px 5px 0px;
+    width: 100px;
+}
+
+.history{
+    border-style: none solid solid solid;
+    border-width: 1px;
+    border-color: #21b181;
+}
+
+.history .title{
+    color: #1b926a;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.history p{
+    border-style: dotted none none none;
+    border-width: 1px;
+    border-color: #21b181;
+    text-align: center;
+    line-height: 20px;
+    padding: 5px;
+    margin: 0px;
+}

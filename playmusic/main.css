@@ -1,0 +1,56 @@
+body{
+    border-width: 1px;
+    border-color: #21b181;
+    border-style: solid;
+}
+
+form{
+    text-align: center;
+    padding: 0px 5px 0px 5px;
+    margin-top: 16px;
+}
+
+p{
+    color: #21b181;
+    text-align: center;
+}
+
+.text{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 1px;
+    border-bottom-color: #21b181;
+}
+
+.submit{
+    border: none;
+    margin: 15px 0px 10px 0px;
+    background-color: #21b181;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 5px 0px 5px 0px;
+    width: 100px;
+}
+
+#playingmusic a,#downloaddiv a,#curplaydiv{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+#playingmusic,#curplaydiv,#downloaddiv{
+    background-color: #21b181;
+    margin-top: 15px;
+}
+
+.musiclist .music{
+    display: block;
+    color: #21b181;
+    border-style: dotted none none none;
+    border-width: 1px;
+    border-color: #21b181;
+    text-align: center;
+    line-height: 20px;
+    padding: 5px;
+    margin: 0px;
+}

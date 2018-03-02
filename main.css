@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    margin: 5px;
+}
+
+label.tips,#error{
+    color: #21b181;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+p,label{
+    background-color: #21b181;
+    color: #ffffff;
+}
+
+.login,.options{
+    border-style: solid;
+    border-color: #21b181;
+    border-width: 1px;
+    padding: 20px 5px 20px 5px;
+    margin-top: 150px;
+}
+
+a{
+    color: #21b181;
+}
+
+.user,.password{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 1px;
+    border-bottom-color: #21b181;
+}
+
+.submit{
+    border: none;
+    margin: 15px 0px 15px 0px;
+    background-color: #21b181;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 5px 0px 5px 0px;
+    width: 100px;
+}
